@@ -33,6 +33,8 @@ Alors, nous ajoutons une `e` dans ce cas:
 
 Nous mang**e**ons
 
+> General formula: g + er => add an `e` before the `e` in the ending for the `Nous` pronoun.
+
 Comme ça, nous ne disons pas "Mango", mais "Mang**e**ons"!
 
 C'est la même pour le reste des prenoms:
@@ -55,6 +57,8 @@ Mais pour `Nous`:
 Nous commencons c'est incorrect! *cons* => `kons`, pas `sons` (which is the sound we actually want.)
 
 Pour corriger ça, nous ajoutons un `ç`:
+
+> General Formula: c + er => add a `ç` before the `e` in the ending for the `Nous` pronoun.
 
 Nous commen**ç**ons
 

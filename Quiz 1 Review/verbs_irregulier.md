@@ -103,7 +103,7 @@ Verbe auxiliaire: **Avoir**
 |--------|-------------|---------|
 | Je     | -s          | M'endors |
 | Tu     | -s          | T'endors |
-| Il     | -t          | S'endort|
+| Il     | -t          | S'endort |
 | Nous   | -ons       | Nous endormons |
 | Vous   | -ez        | Vous endormez  |
 | Ils    | -ent       | S'endorment |
@@ -244,12 +244,13 @@ Example: Je vais aller
 |--------|---------|-----------|------------|--------|
 | Je     | Prends  | Apprends  | Comprends  | Mets   |
 | Tu     | Prends  | Apprends  | Comprends  | Mets   |
-| Il     | Prend**t**  | Apprend**t**  | Comprend**t**  | Met**t**   |
-| Nous   | Prenons | Apprenons | Comprenons | Mettons |
-| Vous   | Prenez  | Apprenez  | Comprenez  | Mettez  |
-| Ils    | Prennent| Apprennent| Comprennent| Mettent |
+| Il     | Prend   | Apprend   | Comprend   | Met    |
+| Nous   | Prenons | Apprenons | Comprenons | Mettons|
+| Vous   | Prenez  | Apprenez  | Comprenez  | Mettez |
+| Ils    | Prennent| Apprennent| Comprennent| Mettent|
 
 > Remarque: `Il` almost ALWAYS ends with `t` for these verbs. Je, Tu, and Il are the most important to remember!!
+> Remarque 2: Notice how il doesn't have an ending here; it's just `prend`! Same concept
 
 #### Passé Composé
 
