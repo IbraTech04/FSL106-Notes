@@ -116,3 +116,47 @@ Je suis **sur** la table. (I'm on the table)
 > Answer: **Avoir** Peur de [x]
 
 > Memorize Sous-sol
+
+- Know how to give directions :P
+
+> Do not use etre for chaud. Use avoir. Please.
+> It means to be hot, not to have hot.
+
+- Note: 
+> Memorize avoir besoin de!!
+(Need to have/Need OF something)
+Ex: J'ai besoin d'un café. (I need a coffee)
+Memorize how to conjugate! 
+
+Example quiz question:
+De quoi avez-vous besoin quand vous allez en voyage? (What do you need when you go on a trip?)
+A: J'ai besoin de mes valises et mon passeport. (I need my suitcases and my passport)
+
+Ventre <=> Estomac
+
+Recall: The only exception is imperative positive form: Pronoun AFTER verb. Everything else is pronoun before verb.
+
+ex: Ne bois pas vs Bois-le 
+
+Possible question: 
+    Decriver votre apartement ou votre maison.
+
+
+Bien in between aux verb and past participle!
+
+Ex: Je me suis **bien** amusé(e) (I had a good time)
+> General rule: Adverbs go between aux verb and past participle!!!!
+
+Je suis amuser bien ❌ WRONG!!! TWO ZEROS!!!
+
+Vous Exceptions:
+- Dites, Faites, Etes
+> Only three verbs for vous that don't end in `ez`
+
+Etage => Masculin!!!!
+
+Souvenir vs Se souvenir
+Noun     vs an actual verb 
+
+Ex: Je me souviens de toi. (I remember you)
+Ex: C'est un bon souvenir. (It's a good memory)
