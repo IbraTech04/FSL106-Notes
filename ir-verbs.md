@@ -21,3 +21,6 @@ The past participle is:
 In other words: Drop the ir and add an i
 
 Je choisissais
+
+- Memorize family terms!!!
+
