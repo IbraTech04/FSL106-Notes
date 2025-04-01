@@ -51,7 +51,22 @@ Ils habitent à Paris.
 Ils étudient ensemble.
 > Same thing. Ils-z-étudient ensemble vs. Il étudie ensemble. (though note, that last sentence doesn't really make sense.)
 
+## Another Way: Silent Letters
+
+Recall that in French, the last letter isn't usually pronounced in the word. For example:
+> Il ven*d* (he sells) vs. Ils vend*ent* (they sell).
+> In the first one, the `d` is silent, hence it is pronounced as "ven" (singular)
+> In the second one, the `end` is silent, but the `d` *isn't*. It is pronounced, and therefore you *can* differentiate!
+
 ### Imparfait
 
 It is harder to tell apart singular and plural in imparfait, because the endings are the same. For this; we rely on **liason** and **context clues**.
 > For example: "Ils étudiaient" (they study together) vs. "Il étudiait ensemble" (he studies together). The first one is plural and the second one is singular, and we tell them apart purely by the liason (i.e: ils-z-étudient vs. il étudiait).
+
+- Recall: A container/bottle/unit-of-measurement of something => use "de"
+    - Ex: Une bouteille de vin (vs: Je veux du vin)
+    - Ex: Un verre de vin (vs: Je veux du vin)
+    - Une boutaille d'eau (vs: Je veux de l'eau)
+    - Un litre de lait (vs: Je veux du lait)
+    - Un kilo de pommes (vs: Je veux des pommes)
+    - Une livre de pommes (vs: Je veux des pommes)
