@@ -50,3 +50,8 @@ Ils habitent à Paris.
 
 Ils étudient ensemble.
 > Same thing. Ils-z-étudient ensemble vs. Il étudie ensemble. (though note, that last sentence doesn't really make sense.)
+
+### Imparfait
+
+It is harder to tell apart singular and plural in imparfait, because the endings are the same. For this; we rely on **liason** and **context clues**.
+> For example: "Ils étudiaient" (they study together) vs. "Il étudiait ensemble" (he studies together). The first one is plural and the second one is singular, and we tell them apart purely by the liason (i.e: ils-z-étudient vs. il étudiait).

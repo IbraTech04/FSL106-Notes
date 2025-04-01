@@ -24,7 +24,7 @@ Est-ce-que tes parents aiment la bière?
 
 ANOTHER SPECIAL EXAMPLE!:
 
-Je parse a ma mere tous les jours.
+Je parle a ma mere tous les jours.
 > Je **lui** parle tous les jours.
 
 But not for appeler! J'appele ma mere tous les jours.
